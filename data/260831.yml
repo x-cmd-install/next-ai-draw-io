@@ -1,0 +1,60 @@
+about:
+  description: A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.
+  license: Apache-2.0
+  homepage: https://next-ai-drawio.jiang.jp/
+  head: 155ef4f
+  archived: false
+  latestVersion: v0.4.16
+  collectedAt: 2026-08-31T06:18:07Z
+timeline:
+  created: 2025-03-23
+  lastCommit: 2026-08-22
+  lastRelease: 2026-05-21
+popularity:
+  star: 35453
+  watcher: 147
+  fork: 3817
+  release: 18
+  contributor: 62
+  pullRequest: 94
+  issue: 334
+language:
+  TypeScript: 1494113
+  JavaScript: 99890
+  CSS: 17035
+  HTML: 5301
+  Dockerfile: 2182
+totalLine: 1618521
+recent:
+  last30d:
+    since: 2026-08-01
+    release: 0
+    mergedPR: 5
+    openPR: 7
+    closedIssue: 0
+    openIssue: 10
+    commit: 7
+  last90d:
+    since: 2026-06-02
+    release: 0
+    mergedPR: 25
+    openPR: 15
+    closedIssue: 7
+    openIssue: 20
+    commit: 23
+  last180d:
+    since: 2026-03-04
+    release: 4
+    mergedPR: 73
+    openPR: 25
+    closedIssue: 30
+    openIssue: 49
+    commit: 75
+  last360d:
+    since: 2025-09-05
+    release: 18
+    mergedPR: 447
+    openPR: 40
+    closedIssue: 188
+    openIssue: 145
+    commit: 562
