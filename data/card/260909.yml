@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.4.16"
   latestRelease: "v0.4.16"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T06:26:58Z
+  collectedAt: 2026-09-09T20:48:31Z
 timeline:
   created: 2025-03-23
   lastCommit: 2026-09-01
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-05-21
   lastPrerelease: 
 popularity:
-  star: 35715
-  watcher: 149
-  fork: 3812
+  star: 35731
+  watcher: 148
+  fork: 3810
   release: 18
   contributor: 62
   pullRequest: 546
@@ -87,7 +87,7 @@ total:
   commit: 701
 ---
 path: /home/runner/.x-repo/github.com/DayuanJiang/next-ai-draw-io
-collectedAt: 2026-09-09T06:27:00Z
+collectedAt: 2026-09-09T20:48:35Z
 loc:
   Json:
     code: 31519
