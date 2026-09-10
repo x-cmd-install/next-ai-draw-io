@@ -1,0 +1,12 @@
+- repo: aur
+  srcname: next-ai-draw-io-bin
+  binname: next-ai-draw-io-bin
+  visiblename: next-ai-draw-io-bin
+  version: 0.4.16
+  origversion: 0.4.16-1
+  status: unique
+  summary: Next AI Powered Draw.io (Desktop version). Built for system-wide electron.
+  maintainers:
+    - chuanshanjia@aur
+  licenses:
+    - Apache-2.0
