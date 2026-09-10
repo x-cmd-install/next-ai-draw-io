@@ -1,52 +1,52 @@
 # next-ai-draw-io
 
-[中文版本](./README.cn.md)
+[English version](./README.md)
 
 A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.
 
-![next-ai-draw-io](https://repo.x-cmd.io/next-ai-draw-io.svg)
+![next-ai-draw-io](https://repo.x-cmd.io/next-ai-draw-io.svg?lang=zh)
 
-## Install
+## 安装
 
 ```sh
 x install next-ai-draw-io
 ```
 
-## Code insight
+## 代码规模
 
-Total: **66,755** lines of code across **195** files in the top 5 languages.
+合计: **66,755** 行代码（覆盖前 5 种语言、共 **195** 个文件）。
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
 | Json | 31,519 | 0 | 0 | 15 |
 | TypeScript | 19,555 | 2,281 | 2,189 | 118 |
 | Tsx | 13,803 | 541 | 976 | 54 |
 | JavaScript | 947 | 107 | 125 | 6 |
 | Css | 608 | 34 | 116 | 2 |
 
-## Source
+## 源代码
 
-- **Upstream**: <https://github.com/DayuanJiang/next-ai-draw-io>
-- **Homepage**: <https://next-ai-drawio.jiang.jp/>
-- **License**: Apache-2.0
+- **上游仓库**: <https://github.com/DayuanJiang/next-ai-draw-io>
+- **官网**: <https://next-ai-drawio.jiang.jp/>
+- **许可证**: Apache-2.0
 
-## Release
+## 发布
 
-- **Latest**: `v0.4.16` (2026-05-21)
-- **Last commit**: 2026-09-01
-- **Assets in release**: 19
+- **最新版本**: `v0.4.16` (2026-05-21)
+- **最近提交**: 2026-09-01
+- **Release 含资产**: 19 个
 
-## Popularity
+## 流行度
 
-- **Stars**: 35,766 · **Forks**: 3,814 · **Open issues**: 334 · **Contributors**: 62
+- **Star**: 35,766 · **Fork**: 3,814 · **开放 issue**: 334 · **贡献者**: 62
 
-## Totals (cumulative)
+## 累计统计
 
-- **Releases**: 18 · **Merged PRs**: 448 · **Open PRs**: 44 · **Closed issues**: 189 · **Open issues**: 145 · **Commits**: 701
+- **发布数**: 18 · **已合并 PR**: 448 · **开放 PR**: 44 · **已关闭 issue**: 189 · **开放 issue**: 145 · **提交数**: 701
 
-## Recent activity
+## 最近活动
 
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 2 | 8 | 0 | 5 | 3 |
 | last60d | 2026-07-12 | 0 | 11 | 15 | 2 | 10 | 11 |
@@ -55,10 +55,10 @@ Total: **66,755** lines of code across **195** files in the top 5 languages.
 | 360d | 2025-09-15 | 18 | 448 | 44 | 188 | 145 | 563 |
 | last720d | 2024-09-20 | 18 | 448 | 44 | 189 | 145 | 701 |
 
-## Release assets
+## Release 资产
 
-| Asset | Size | Target |
-|-------|-----:|--------|
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
 | [latest-linux-arm64.yml](https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.4.16/latest-linux-arm64.yml) | 725 B | `native/linux/arm64` |
 | [latest-linux.yml](https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.4.16/latest-linux.yml) | 712 B | `other` |
 | [latest-mac.yml](https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.4.16/latest-mac.yml) | 845 B | `other` |
@@ -79,13 +79,13 @@ Total: **66,755** lines of code across **195** files in the top 5 languages.
 | [Next.AI.Draw.io.0.4.16.exe](https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.4.16/Next.AI.Draw.io.0.4.16.exe) | 473.9 MiB | `other` |
 | [Next.AI.Draw.io.Setup.0.4.16.exe](https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.4.16/Next.AI.Draw.io.Setup.0.4.16.exe) | 474.1 MiB | `other` |
 
-## Improve this data
+## 改进这些数据
 
-Install metadata for next-ai-draw-io lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `next-ai-draw-io` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+next-ai-draw-io 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `next-ai-draw-io` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
 
-- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/next-ai-draw-io.yml> (or whichever path the index uses)
+- **提交 issue**: <https://github.com/x-cmd/install/issues/new>
+- **编辑包条目**: <https://github.com/x-cmd/install/edit/main/next-ai-draw-io.yml>（或索引实际使用的路径）
 
-The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T21:47:07Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T21:47:08Z._
