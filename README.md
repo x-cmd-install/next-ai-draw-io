@@ -4,7 +4,7 @@
 
 A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.
 
-![next-ai-draw-io](https://repo.x-cmd.io/next-ai-draw-io.svg)
+[![x-cmd/install — next-ai-draw-io Code Quality Monitoring Repo Card](https://repo.x-cmd.io/next-ai-draw-io.svg)](https://x-cmd.com/install/next-ai-draw-io)
 
 ## Install
 
@@ -38,22 +38,22 @@ Total: **66,755** lines of code across **195** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 35,914 · **Forks**: 3,840 · **Open issues**: 335 · **Contributors**: 62
+- **Stars**: 35,961 · **Forks**: 3,846 · **Open issues**: 336 · **Contributors**: 62
 
 ## Totals (cumulative)
 
-- **Releases**: 18 · **Merged PRs**: 448 · **Open PRs**: 46 · **Closed issues**: 190 · **Open issues**: 145 · **Commits**: 701
+- **Releases**: 18 · **Merged PRs**: 448 · **Open PRs**: 46 · **Closed issues**: 190 · **Open issues**: 146 · **Commits**: 701
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 2 | 8 | 1 | 2 | 3 |
-| last60d | 2026-07-20 | 0 | 9 | 14 | 2 | 10 | 11 |
-| 90d | 2026-06-20 | 0 | 17 | 20 | 7 | 17 | 17 |
-| last180d | 2026-03-22 | 3 | 65 | 30 | 27 | 45 | 70 |
-| 360d | 2025-09-23 | 18 | 448 | 46 | 189 | 145 | 563 |
-| last720d | 2024-09-28 | 18 | 448 | 46 | 190 | 145 | 701 |
+| 30d | 2026-08-21 | 0 | 2 | 7 | 1 | 3 | 3 |
+| last60d | 2026-07-22 | 0 | 9 | 14 | 2 | 11 | 11 |
+| 90d | 2026-06-22 | 0 | 17 | 20 | 7 | 18 | 17 |
+| last180d | 2026-03-24 | 3 | 63 | 30 | 21 | 44 | 70 |
+| 360d | 2025-09-25 | 18 | 448 | 46 | 189 | 146 | 563 |
+| last720d | 2024-09-30 | 18 | 448 | 46 | 190 | 146 | 701 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for next-ai-draw-io lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:36:10Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:28:39Z._

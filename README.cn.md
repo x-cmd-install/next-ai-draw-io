@@ -4,7 +4,7 @@
 
 A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.
 
-![next-ai-draw-io](https://repo.x-cmd.io/next-ai-draw-io.svg?lang=zh)
+[![x-cmd/install — next-ai-draw-io Code Quality Monitoring Repo Card](https://repo.x-cmd.io/next-ai-draw-io.svg?lang=zh)](https://x-cmd.com/install/next-ai-draw-io)
 
 ## 安装
 
@@ -38,22 +38,22 @@ x install next-ai-draw-io
 
 ## 流行度
 
-- **Star**: 35,914 · **Fork**: 3,840 · **开放 issue**: 335 · **贡献者**: 62
+- **Star**: 35,961 · **Fork**: 3,846 · **开放 issue**: 336 · **贡献者**: 62
 
 ## 累计统计
 
-- **发布数**: 18 · **已合并 PR**: 448 · **开放 PR**: 46 · **已关闭 issue**: 190 · **开放 issue**: 145 · **提交数**: 701
+- **发布数**: 18 · **已合并 PR**: 448 · **开放 PR**: 46 · **已关闭 issue**: 190 · **开放 issue**: 146 · **提交数**: 701
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 2 | 8 | 1 | 2 | 3 |
-| last60d | 2026-07-20 | 0 | 9 | 14 | 2 | 10 | 11 |
-| 90d | 2026-06-20 | 0 | 17 | 20 | 7 | 17 | 17 |
-| last180d | 2026-03-22 | 3 | 65 | 30 | 27 | 45 | 70 |
-| 360d | 2025-09-23 | 18 | 448 | 46 | 189 | 145 | 563 |
-| last720d | 2024-09-28 | 18 | 448 | 46 | 190 | 145 | 701 |
+| 30d | 2026-08-21 | 0 | 2 | 7 | 1 | 3 | 3 |
+| last60d | 2026-07-22 | 0 | 9 | 14 | 2 | 11 | 11 |
+| 90d | 2026-06-22 | 0 | 17 | 20 | 7 | 18 | 17 |
+| last180d | 2026-03-24 | 3 | 63 | 30 | 21 | 44 | 70 |
+| 360d | 2025-09-25 | 18 | 448 | 46 | 189 | 146 | 563 |
+| last720d | 2024-09-30 | 18 | 448 | 46 | 190 | 146 | 701 |
 
 ## Release 资产
 
@@ -88,4 +88,4 @@ next-ai-draw-io 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/i
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T06:36:11Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T06:28:39Z._
