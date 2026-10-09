@@ -14,13 +14,13 @@ x install next-ai-draw-io
 
 ## Code insight
 
-Total: **87,290** lines of code across **296** files in the top 5 languages.
+Total: **89,559** lines of code across **303** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 36,465 | 3,990 | 3,350 | 198 |
-| Json | 32,331 | 0 | 0 | 16 |
-| Tsx | 16,129 | 840 | 901 | 69 |
+| TypeScript | 37,963 | 4,058 | 3,435 | 202 |
+| Json | 32,543 | 0 | 0 | 16 |
+| Tsx | 16,688 | 908 | 918 | 72 |
 | JavaScript | 1,208 | 279 | 150 | 10 |
 | Css | 750 | 23 | 82 | 3 |
 
@@ -38,22 +38,22 @@ Total: **87,290** lines of code across **296** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 36,138 · **Forks**: 3,851 · **Open issues**: 339 · **Contributors**: 66
+- **Stars**: 36,149 · **Forks**: 3,850 · **Open issues**: 339 · **Contributors**: 66
 
 ## Totals (cumulative)
 
-- **Releases**: 18 · **Merged PRs**: 470 · **Open PRs**: 18 · **Closed issues**: 196 · **Open issues**: 143 · **Commits**: 753
+- **Releases**: 18 · **Merged PRs**: 472 · **Open PRs**: 18 · **Closed issues**: 196 · **Open issues**: 143 · **Commits**: 755
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 0 | 8 | 4 | 1 | 4 | 14 |
-| last60d | 2026-08-09 | 0 | 14 | 10 | 2 | 11 | 20 |
-| 90d | 2026-07-10 | 0 | 27 | 13 | 4 | 13 | 29 |
-| last180d | 2026-04-11 | 2 | 61 | 14 | 17 | 38 | 68 |
-| 360d | 2025-10-13 | 18 | 470 | 18 | 195 | 143 | 592 |
-| last720d | 2024-10-18 | 18 | 470 | 18 | 196 | 143 | 753 |
+| 30d | 2026-09-09 | 0 | 10 | 4 | 1 | 4 | 16 |
+| last60d | 2026-08-10 | 0 | 15 | 10 | 2 | 10 | 22 |
+| 90d | 2026-07-11 | 0 | 28 | 13 | 4 | 13 | 31 |
+| last180d | 2026-04-12 | 2 | 62 | 14 | 17 | 38 | 70 |
+| 360d | 2025-10-14 | 18 | 472 | 18 | 195 | 143 | 594 |
+| last720d | 2024-10-19 | 18 | 472 | 18 | 196 | 143 | 755 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for next-ai-draw-io lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T07:32:16Z._
+_Snapshot: `data/card/261009.yml` · 2026-10-09T07:31:36Z._
