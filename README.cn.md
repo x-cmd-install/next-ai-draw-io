@@ -2,7 +2,7 @@
 
 [English version](./README.md)
 
-A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.
+Draw and edit draw.io diagrams by chatting with an AI. Web app, desktop app, and an MCP server for Claude Code, Cursor, Codex and VS Code.
 
 [![x-cmd/install — next-ai-draw-io Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/next-ai-draw-io.svg?lang=zh)](https://x-cmd.com/install/next-ai-draw-io)
 
@@ -14,14 +14,14 @@ x install next-ai-draw-io
 
 ## 代码洞察
 
-合计: **89,583** 行代码（覆盖前 5 种语言、共 **340** 个文件）。
+合计: **92,432** 行代码（覆盖前 5 种语言、共 **348** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| TypeScript | 44,039 | 5,121 | 3,645 | 226 |
-| Json | 26,269 | 0 | 0 | 18 |
-| Tsx | 16,944 | 1,055 | 912 | 78 |
-| JavaScript | 1,585 | 330 | 149 | 15 |
+| TypeScript | 45,530 | 5,371 | 3,756 | 229 |
+| Json | 26,393 | 0 | 0 | 19 |
+| Tsx | 18,178 | 1,184 | 971 | 82 |
+| JavaScript | 1,585 | 332 | 149 | 15 |
 | Css | 456 | 28 | 33 | 3 |
 
 ## 源代码
@@ -33,27 +33,27 @@ x install next-ai-draw-io
 ## 发布
 
 - **最新版本**: `v0.5.0` (2026-10-10)
-- **最近提交**: 2026-10-12
+- **最近提交**: 2026-10-16
 - **Release 含资产**: 19 个
 
 ## 流行度
 
-- **Star**: 36,251 · **Fork**: 3,852 · **开放 issue**: 342 · **贡献者**: 67
+- **Star**: 36,268 · **Fork**: 3,852 · **开放 issue**: 344 · **贡献者**: 67
 
 ## 累计统计
 
-- **发布数**: 19 · **已合并 PR**: 502 · **开放 PR**: 10 · **已关闭 issue**: 315 · **开放 issue**: 27 · **提交数**: 785
+- **发布数**: 19 · **已合并 PR**: 506 · **开放 PR**: 14 · **已关闭 issue**: 315 · **开放 issue**: 29 · **提交数**: 789
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 1 | 39 | 0 | 2 | 5 | 46 |
-| last60d | 2026-08-16 | 1 | 43 | 4 | 5 | 7 | 51 |
-| 90d | 2026-07-17 | 1 | 51 | 7 | 12 | 7 | 61 |
-| last180d | 2026-04-18 | 2 | 89 | 7 | 38 | 13 | 99 |
-| 360d | 2025-10-20 | 19 | 502 | 10 | 314 | 27 | 624 |
-| last720d | 2024-10-25 | 19 | 502 | 10 | 315 | 27 | 785 |
+| 30d | 2026-09-16 | 1 | 43 | 4 | 2 | 7 | 0 |
+| last60d | 2026-08-17 | 1 | 47 | 8 | 5 | 8 | 0 |
+| 90d | 2026-07-18 | 1 | 55 | 11 | 12 | 9 | 0 |
+| last180d | 2026-04-19 | 2 | 93 | 11 | 38 | 15 | 0 |
+| 360d | 2025-10-21 | 19 | 506 | 14 | 314 | 29 | 0 |
+| last720d | 2024-10-26 | 19 | 506 | 14 | 315 | 29 | 789 |
 
 ## Release 资产
 
@@ -88,4 +88,4 @@ next-ai-draw-io 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/i
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261015.yml` · 2026-10-15T05:58:37Z._
+_数据快照: `data/card/261016.yml` · 2026-10-16T05:52:41Z._

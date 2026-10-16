@@ -2,7 +2,7 @@
 
 [中文版本](./README.cn.md)
 
-A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.
+Draw and edit draw.io diagrams by chatting with an AI. Web app, desktop app, and an MCP server for Claude Code, Cursor, Codex and VS Code.
 
 [![x-cmd/install — next-ai-draw-io Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/next-ai-draw-io.svg)](https://x-cmd.com/install/next-ai-draw-io)
 
@@ -14,14 +14,14 @@ x install next-ai-draw-io
 
 ## Code insight
 
-Total: **89,583** lines of code across **340** files in the top 5 languages.
+Total: **92,432** lines of code across **348** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 44,039 | 5,121 | 3,645 | 226 |
-| Json | 26,269 | 0 | 0 | 18 |
-| Tsx | 16,944 | 1,055 | 912 | 78 |
-| JavaScript | 1,585 | 330 | 149 | 15 |
+| TypeScript | 45,530 | 5,371 | 3,756 | 229 |
+| Json | 26,393 | 0 | 0 | 19 |
+| Tsx | 18,178 | 1,184 | 971 | 82 |
+| JavaScript | 1,585 | 332 | 149 | 15 |
 | Css | 456 | 28 | 33 | 3 |
 
 ## Source
@@ -33,27 +33,27 @@ Total: **89,583** lines of code across **340** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.5.0` (2026-10-10)
-- **Last commit**: 2026-10-12
+- **Last commit**: 2026-10-16
 - **Assets in release**: 19
 
 ## Popularity
 
-- **Stars**: 36,251 · **Forks**: 3,852 · **Open issues**: 342 · **Contributors**: 67
+- **Stars**: 36,268 · **Forks**: 3,852 · **Open issues**: 344 · **Contributors**: 67
 
 ## Totals (cumulative)
 
-- **Releases**: 19 · **Merged PRs**: 502 · **Open PRs**: 10 · **Closed issues**: 315 · **Open issues**: 27 · **Commits**: 785
+- **Releases**: 19 · **Merged PRs**: 506 · **Open PRs**: 14 · **Closed issues**: 315 · **Open issues**: 29 · **Commits**: 789
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 1 | 39 | 0 | 2 | 5 | 46 |
-| last60d | 2026-08-16 | 1 | 43 | 4 | 5 | 7 | 51 |
-| 90d | 2026-07-17 | 1 | 51 | 7 | 12 | 7 | 61 |
-| last180d | 2026-04-18 | 2 | 89 | 7 | 38 | 13 | 99 |
-| 360d | 2025-10-20 | 19 | 502 | 10 | 314 | 27 | 624 |
-| last720d | 2024-10-25 | 19 | 502 | 10 | 315 | 27 | 785 |
+| 30d | 2026-09-16 | 1 | 43 | 4 | 2 | 7 | 0 |
+| last60d | 2026-08-17 | 1 | 47 | 8 | 5 | 8 | 0 |
+| 90d | 2026-07-18 | 1 | 55 | 11 | 12 | 9 | 0 |
+| last180d | 2026-04-19 | 2 | 93 | 11 | 38 | 15 | 0 |
+| 360d | 2025-10-21 | 19 | 506 | 14 | 314 | 29 | 0 |
+| last720d | 2024-10-26 | 19 | 506 | 14 | 315 | 29 | 789 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for next-ai-draw-io lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261015.yml` · 2026-10-15T05:58:37Z._
+_Snapshot: `data/card/261016.yml` · 2026-10-16T05:52:40Z._
