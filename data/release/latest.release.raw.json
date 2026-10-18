@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 720,
       "digest": "sha256:ccee59c504af3cbea7a79b69555cb557e448f7d7469abcf6eaf72a494a33764b",
-      "download_count": 14,
+      "download_count": 20,
       "created_at": "2026-10-10T04:48:24Z",
       "updated_at": "2026-10-10T04:48:24Z",
       "browser_download_url": "https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.5.0/latest-linux-arm64.yml"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 707,
       "digest": "sha256:cc99e8a92d763d245ef551796aae449eb224d38c16043d9cfcbc7c81524ea7e8",
-      "download_count": 20,
+      "download_count": 27,
       "created_at": "2026-10-10T04:48:24Z",
       "updated_at": "2026-10-10T04:48:24Z",
       "browser_download_url": "https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.5.0/latest-linux.yml"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 839,
       "digest": "sha256:949b54c4ed877b2300ec09702d1e5315be4fcfc648381e859a207a6d3141799e",
-      "download_count": 1432,
+      "download_count": 1600,
       "created_at": "2026-10-10T05:05:08Z",
       "updated_at": "2026-10-10T05:05:08Z",
       "browser_download_url": "https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.5.0/latest-mac.yml"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 186278441,
       "digest": "sha256:ef146d0c5dc72b988ef83ffdaebdca8815920c3b02f28f986684dabee3c90554",
-      "download_count": 18,
+      "download_count": 20,
       "created_at": "2026-10-10T04:48:15Z",
       "updated_at": "2026-10-10T04:48:22Z",
       "browser_download_url": "https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.5.0/next-ai-draw-io-0.5.0.aarch64.rpm"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 192038809,
       "digest": "sha256:b575847a4f85746fceb63efebd053bfa45e34d82de07fcc7e762e3b7e149505b",
-      "download_count": 24,
+      "download_count": 25,
       "created_at": "2026-10-10T04:47:25Z",
       "updated_at": "2026-10-10T04:47:32Z",
       "browser_download_url": "https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.5.0/next-ai-draw-io-0.5.0.x86_64.rpm"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 250506600,
       "digest": "sha256:d205d744efa68f584fb60c3e63dbd6289cdd37c6875e7abc03d05ccd9703314e",
-      "download_count": 38,
+      "download_count": 39,
       "created_at": "2026-10-10T04:42:50Z",
       "updated_at": "2026-10-10T04:42:59Z",
       "browser_download_url": "https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.5.0/next-ai-draw-io_0.5.0_amd64.deb"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 245396056,
       "digest": "sha256:d1422a593ced7e0d81d8b7f1cb601365900e012a3e3371bc2be24b0e68deffd9",
-      "download_count": 24,
+      "download_count": 25,
       "created_at": "2026-10-10T04:44:30Z",
       "updated_at": "2026-10-10T04:44:38Z",
       "browser_download_url": "https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.5.0/next-ai-draw-io_0.5.0_arm64.deb"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 322070969,
       "digest": "sha256:218dfc1b520587e0e6192715a63a6b5f221057b86dc7762a8b7a57de62405b3a",
-      "download_count": 35,
+      "download_count": 37,
       "created_at": "2026-10-10T05:04:53Z",
       "updated_at": "2026-10-10T05:05:07Z",
       "browser_download_url": "https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.5.0/Next-AI-Draw.io-0.5.0-arm64-mac.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 334352962,
       "digest": "sha256:86e28dcac55b57c17636df1dd4c4ea7f614b096c648b1523e18904db1b071214",
-      "download_count": 15,
+      "download_count": 16,
       "created_at": "2026-10-10T04:41:27Z",
       "updated_at": "2026-10-10T04:41:37Z",
       "browser_download_url": "https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.5.0/Next-AI-Draw.io-0.5.0-arm64.AppImage"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 318951171,
       "digest": "sha256:56070a4a1992f86125a6520dc93983c18324eabb4df744623b8d5db4f4bb792d",
-      "download_count": 237,
+      "download_count": 243,
       "created_at": "2026-10-10T05:04:35Z",
       "updated_at": "2026-10-10T05:05:04Z",
       "browser_download_url": "https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.5.0/Next-AI-Draw.io-0.5.0-arm64.dmg"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 329495815,
       "digest": "sha256:e93d112975dfd512e2a3c66007ebc54f94545bbcdda64fab0bce34626c80f8bf",
-      "download_count": 16,
+      "download_count": 21,
       "created_at": "2026-10-10T05:03:04Z",
       "updated_at": "2026-10-10T05:03:24Z",
       "browser_download_url": "https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.5.0/Next-AI-Draw.io-0.5.0-mac.zip"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 333777775,
       "digest": "sha256:73911df312974ecce9c749fd0825179b3644799e4d644ee7fc756b84076b003c",
-      "download_count": 19,
+      "download_count": 22,
       "created_at": "2026-10-10T04:40:16Z",
       "updated_at": "2026-10-10T04:40:28Z",
       "browser_download_url": "https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.5.0/Next-AI-Draw.io-0.5.0.AppImage"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 326354974,
       "digest": "sha256:a5cc433b6414d177916d88034cb6057f0d069f4073429c0e56ba9ef1060f3c42",
-      "download_count": 60,
+      "download_count": 66,
       "created_at": "2026-10-10T05:03:09Z",
       "updated_at": "2026-10-10T05:03:32Z",
       "browser_download_url": "https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.5.0/Next-AI-Draw.io-0.5.0.dmg"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 338750,
       "digest": "sha256:8437a64890611e77573f47f4e79eed0bfcfbc97d13a00385924134f119978f65",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-10-10T05:03:09Z",
       "updated_at": "2026-10-10T05:03:09Z",
       "browser_download_url": "https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.5.0/Next-AI-Draw.io-0.5.0.dmg.blockmap"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 487000280,
       "digest": "sha256:b105e0219d2c34964b032138b7d4cd02c4b65cc6c719593cd75897d277e5285d",
-      "download_count": 228,
+      "download_count": 254,
       "created_at": "2026-10-10T04:54:37Z",
       "updated_at": "2026-10-10T04:54:54Z",
       "browser_download_url": "https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.5.0/Next.AI.Draw.io.0.5.0.exe"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 487234528,
       "digest": "sha256:498921fe4e622813b804c78b84ae35fd9966d2d2262fa9b25eea14959f4f5d78",
-      "download_count": 771,
+      "download_count": 829,
       "created_at": "2026-10-10T04:54:37Z",
       "updated_at": "2026-10-10T04:54:55Z",
       "browser_download_url": "https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.5.0/Next.AI.Draw.io.Setup.0.5.0.exe"
