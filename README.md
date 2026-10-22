@@ -33,27 +33,27 @@ Total: **100,755** lines of code across **407** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.5.0` (2026-10-10)
-- **Last commit**: 2026-10-18
+- **Last commit**: 2026-10-22
 - **Assets in release**: 19
 
 ## Popularity
 
-- **Stars**: 36,331 · **Forks**: 3,804 · **Open issues**: 344 · **Contributors**: 68
+- **Stars**: 36,353 · **Forks**: 3,797 · **Open issues**: 345 · **Contributors**: 68
 
 ## Totals (cumulative)
 
-- **Releases**: 19 · **Merged PRs**: 530 · **Open PRs**: 11 · **Closed issues**: 316 · **Open issues**: 28 · **Commits**: 828
+- **Releases**: 19 · **Merged PRs**: 531 · **Open PRs**: 11 · **Closed issues**: 316 · **Open issues**: 29 · **Commits**: 829
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 1 | 65 | 3 | 3 | 6 | 80 |
-| last60d | 2026-08-22 | 1 | 68 | 6 | 6 | 6 | 83 |
-| 90d | 2026-07-23 | 1 | 78 | 9 | 14 | 8 | 95 |
-| last180d | 2026-04-24 | 2 | 113 | 9 | 38 | 13 | 132 |
-| 360d | 2025-10-26 | 19 | 530 | 11 | 315 | 28 | 662 |
-| last720d | 2024-10-31 | 19 | 530 | 11 | 316 | 28 | 828 |
+| 30d | 2026-09-22 | 1 | 66 | 3 | 3 | 6 | 81 |
+| last60d | 2026-08-23 | 1 | 69 | 6 | 6 | 7 | 84 |
+| 90d | 2026-07-24 | 1 | 79 | 9 | 13 | 9 | 96 |
+| last180d | 2026-04-25 | 2 | 114 | 9 | 37 | 14 | 133 |
+| 360d | 2025-10-27 | 19 | 531 | 11 | 315 | 29 | 663 |
+| last720d | 2024-11-01 | 19 | 531 | 11 | 316 | 29 | 829 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for next-ai-draw-io lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T06:07:56Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T06:06:37Z._
