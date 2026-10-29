@@ -38,22 +38,22 @@ Total: **100,763** lines of code across **407** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 36,454 · **Forks**: 3,813 · **Open issues**: 348 · **Contributors**: 68
+- **Stars**: 36,479 · **Forks**: 3,815 · **Open issues**: 350 · **Contributors**: 68
 
 ## Totals (cumulative)
 
-- **Releases**: 19 · **Merged PRs**: 532 · **Open PRs**: 12 · **Closed issues**: 317 · **Open issues**: 31 · **Commits**: 830
+- **Releases**: 19 · **Merged PRs**: 532 · **Open PRs**: 12 · **Closed issues**: 318 · **Open issues**: 32 · **Commits**: 830
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 1 | 66 | 4 | 4 | 7 | 81 |
-| last60d | 2026-08-29 | 1 | 70 | 7 | 6 | 9 | 84 |
-| 90d | 2026-07-30 | 1 | 79 | 10 | 14 | 11 | 95 |
-| last180d | 2026-05-01 | 2 | 113 | 10 | 37 | 16 | 134 |
-| 360d | 2025-11-02 | 19 | 532 | 12 | 316 | 31 | 664 |
-| last720d | 2024-11-07 | 19 | 532 | 12 | 317 | 31 | 830 |
+| 30d | 2026-09-29 | 1 | 66 | 4 | 5 | 8 | 81 |
+| last60d | 2026-08-30 | 1 | 70 | 7 | 7 | 10 | 84 |
+| 90d | 2026-07-31 | 1 | 79 | 10 | 15 | 12 | 95 |
+| last180d | 2026-05-02 | 2 | 113 | 10 | 38 | 17 | 134 |
+| 360d | 2025-11-03 | 19 | 532 | 12 | 317 | 32 | 664 |
+| last720d | 2024-11-08 | 19 | 532 | 12 | 318 | 32 | 830 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for next-ai-draw-io lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T07:09:16Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T07:13:08Z._
