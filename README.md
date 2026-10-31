@@ -14,13 +14,13 @@ x install next-ai-draw-io
 
 ## Code insight
 
-Total: **100,763** lines of code across **407** files in the top 5 languages.
+Total: **100,597** lines of code across **409** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 50,093 | 5,779 | 3,949 | 261 |
-| Json | 26,769 | 0 | 0 | 20 |
-| Tsx | 21,250 | 1,349 | 1,079 | 106 |
+| TypeScript | 49,898 | 5,810 | 3,958 | 263 |
+| Json | 26,774 | 0 | 0 | 20 |
+| Tsx | 21,274 | 1,338 | 1,078 | 106 |
 | JavaScript | 1,676 | 348 | 154 | 16 |
 | Css | 662 | 45 | 44 | 4 |
 
@@ -32,52 +32,52 @@ Total: **100,763** lines of code across **407** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.5.0` (2026-10-10)
-- **Last commit**: 2026-10-26
+- **Latest**: `v0.5.1` (2026-10-31)
+- **Last commit**: 2026-10-31
 - **Assets in release**: 19
 
 ## Popularity
 
-- **Stars**: 36,499 · **Forks**: 3,812 · **Open issues**: 350 · **Contributors**: 68
+- **Stars**: 36,510 · **Forks**: 3,813 · **Open issues**: 350 · **Contributors**: 68
 
 ## Totals (cumulative)
 
-- **Releases**: 19 · **Merged PRs**: 532 · **Open PRs**: 12 · **Closed issues**: 318 · **Open issues**: 32 · **Commits**: 830
+- **Releases**: 20 · **Merged PRs**: 541 · **Open PRs**: 10 · **Closed issues**: 320 · **Open issues**: 30 · **Commits**: 842
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 1 | 65 | 4 | 4 | 8 | 81 |
-| last60d | 2026-08-31 | 1 | 70 | 7 | 7 | 10 | 84 |
-| 90d | 2026-08-01 | 1 | 77 | 9 | 15 | 12 | 95 |
-| last180d | 2026-05-03 | 2 | 113 | 10 | 38 | 17 | 134 |
-| 360d | 2025-11-04 | 19 | 532 | 12 | 317 | 32 | 664 |
-| last720d | 2024-11-09 | 19 | 532 | 12 | 318 | 32 | 830 |
+| 30d | 2026-10-01 | 2 | 73 | 2 | 5 | 7 | 92 |
+| last60d | 2026-09-01 | 2 | 77 | 4 | 8 | 9 | 95 |
+| 90d | 2026-08-02 | 2 | 86 | 7 | 16 | 11 | 106 |
+| last180d | 2026-05-04 | 3 | 122 | 8 | 40 | 15 | 145 |
+| 360d | 2025-11-05 | 20 | 541 | 10 | 319 | 30 | 675 |
+| last720d | 2024-11-10 | 20 | 541 | 10 | 320 | 30 | 842 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [latest-linux-arm64.yml](https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.5.0/latest-linux-arm64.yml) | 720 B | `native/linux/arm64` |
-| [latest-linux.yml](https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.5.0/latest-linux.yml) | 707 B | `other` |
-| [latest-mac.yml](https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.5.0/latest-mac.yml) | 839 B | `other` |
-| [next-ai-draw-io-0.5.0.aarch64.rpm](https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.5.0/next-ai-draw-io-0.5.0.aarch64.rpm) | 177.6 MiB | `runtime/rpm/aarch64` |
-| [next-ai-draw-io-0.5.0.x86_64.rpm](https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.5.0/next-ai-draw-io-0.5.0.x86_64.rpm) | 183.1 MiB | `runtime/rpm/x86_64` |
-| [next-ai-draw-io_0.5.0_amd64.deb](https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.5.0/next-ai-draw-io_0.5.0_amd64.deb) | 238.9 MiB | `runtime/deb/amd64` |
-| [next-ai-draw-io_0.5.0_arm64.deb](https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.5.0/next-ai-draw-io_0.5.0_arm64.deb) | 234.0 MiB | `runtime/deb/arm64` |
-| [Next-AI-Draw.io-0.5.0-arm64-mac.zip](https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.5.0/Next-AI-Draw.io-0.5.0-arm64-mac.zip) | 307.2 MiB | `other` |
-| [Next-AI-Draw.io-0.5.0-arm64.AppImage](https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.5.0/Next-AI-Draw.io-0.5.0-arm64.AppImage) | 318.9 MiB | `other` |
-| [Next-AI-Draw.io-0.5.0-arm64.dmg](https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.5.0/Next-AI-Draw.io-0.5.0-arm64.dmg) | 304.2 MiB | `other` |
-| [Next-AI-Draw.io-0.5.0-arm64.dmg.blockmap](https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.5.0/Next-AI-Draw.io-0.5.0-arm64.dmg.blockmap) | 327.4 KiB | `other` |
-| [Next-AI-Draw.io-0.5.0-mac.zip](https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.5.0/Next-AI-Draw.io-0.5.0-mac.zip) | 314.2 MiB | `other` |
-| [Next-AI-Draw.io-0.5.0.AppImage](https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.5.0/Next-AI-Draw.io-0.5.0.AppImage) | 318.3 MiB | `other` |
-| [Next-AI-Draw.io-0.5.0.dmg](https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.5.0/Next-AI-Draw.io-0.5.0.dmg) | 311.2 MiB | `other` |
-| [Next-AI-Draw.io-0.5.0.dmg.blockmap](https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.5.0/Next-AI-Draw.io-0.5.0.dmg.blockmap) | 330.8 KiB | `other` |
-| [Next.AI.Draw.io-0.5.0-arm64-mac.zip.blockmap](https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.5.0/Next.AI.Draw.io-0.5.0-arm64-mac.zip.blockmap) | 320.8 KiB | `other` |
-| [Next.AI.Draw.io-0.5.0-mac.zip.blockmap](https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.5.0/Next.AI.Draw.io-0.5.0-mac.zip.blockmap) | 327.3 KiB | `other` |
-| [Next.AI.Draw.io.0.5.0.exe](https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.5.0/Next.AI.Draw.io.0.5.0.exe) | 464.4 MiB | `other` |
-| [Next.AI.Draw.io.Setup.0.5.0.exe](https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.5.0/Next.AI.Draw.io.Setup.0.5.0.exe) | 464.7 MiB | `other` |
+| [latest-linux-arm64.yml](https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.5.1/latest-linux-arm64.yml) | 720 B | `native/linux/arm64` |
+| [latest-linux.yml](https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.5.1/latest-linux.yml) | 707 B | `other` |
+| [latest-mac.yml](https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.5.1/latest-mac.yml) | 839 B | `other` |
+| [next-ai-draw-io-0.5.1.aarch64.rpm](https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.5.1/next-ai-draw-io-0.5.1.aarch64.rpm) | 166.2 MiB | `runtime/rpm/aarch64` |
+| [next-ai-draw-io-0.5.1.x86_64.rpm](https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.5.1/next-ai-draw-io-0.5.1.x86_64.rpm) | 170.8 MiB | `runtime/rpm/x86_64` |
+| [next-ai-draw-io_0.5.1_amd64.deb](https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.5.1/next-ai-draw-io_0.5.1_amd64.deb) | 220.6 MiB | `runtime/deb/amd64` |
+| [next-ai-draw-io_0.5.1_arm64.deb](https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.5.1/next-ai-draw-io_0.5.1_arm64.deb) | 216.1 MiB | `runtime/deb/arm64` |
+| [Next-AI-Draw.io-0.5.1-arm64-mac.zip](https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.5.1/Next-AI-Draw.io-0.5.1-arm64-mac.zip) | 283.8 MiB | `other` |
+| [Next-AI-Draw.io-0.5.1-arm64.AppImage](https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.5.1/Next-AI-Draw.io-0.5.1-arm64.AppImage) | 298.7 MiB | `other` |
+| [Next-AI-Draw.io-0.5.1-arm64.dmg](https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.5.1/Next-AI-Draw.io-0.5.1-arm64.dmg) | 280.3 MiB | `other` |
+| [Next-AI-Draw.io-0.5.1-arm64.dmg.blockmap](https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.5.1/Next-AI-Draw.io-0.5.1-arm64.dmg.blockmap) | 299.4 KiB | `other` |
+| [Next-AI-Draw.io-0.5.1-mac.zip](https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.5.1/Next-AI-Draw.io-0.5.1-mac.zip) | 290.4 MiB | `other` |
+| [Next-AI-Draw.io-0.5.1.AppImage](https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.5.1/Next-AI-Draw.io-0.5.1.AppImage) | 297.3 MiB | `other` |
+| [Next-AI-Draw.io-0.5.1.dmg](https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.5.1/Next-AI-Draw.io-0.5.1.dmg) | 286.8 MiB | `other` |
+| [Next-AI-Draw.io-0.5.1.dmg.blockmap](https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.5.1/Next-AI-Draw.io-0.5.1.dmg.blockmap) | 307.7 KiB | `other` |
+| [Next.AI.Draw.io-0.5.1-arm64-mac.zip.blockmap](https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.5.1/Next.AI.Draw.io-0.5.1-arm64-mac.zip.blockmap) | 300.3 KiB | `other` |
+| [Next.AI.Draw.io-0.5.1-mac.zip.blockmap](https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.5.1/Next.AI.Draw.io-0.5.1-mac.zip.blockmap) | 307.3 KiB | `other` |
+| [Next.AI.Draw.io.0.5.1.exe](https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.5.1/Next.AI.Draw.io.0.5.1.exe) | 439.4 MiB | `other` |
+| [Next.AI.Draw.io.Setup.0.5.1.exe](https://github.com/DayuanJiang/next-ai-draw-io/releases/download/v0.5.1/Next.AI.Draw.io.Setup.0.5.1.exe) | 441.5 MiB | `other` |
 
 ## Improve this data
 
@@ -88,4 +88,4 @@ Install metadata for next-ai-draw-io lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T07:17:35Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T07:05:16Z._
