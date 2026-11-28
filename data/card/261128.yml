@@ -1,0 +1,160 @@
+about:
+  description: "Draw and edit draw.io diagrams by chatting with an AI. Web app, desktop app, and an MCP server for Claude Code, Cursor, Codex and VS Code."
+  license: Apache-2.0
+  homepage: https://next-ai-drawio.jiang.jp/
+  head: 75f0df3
+  archived: false
+  latestVersion: "v0.5.2"
+  latestRelease: "v0.5.2"
+  latestPrerelease: ""
+  collectedAt: 2026-11-28T08:43:14Z
+timeline:
+  created: 2025-03-23
+  lastCommit: 2026-11-28
+  lastVersion: 2026-11-28
+  lastRelease: 2026-11-28
+  lastPrerelease: 
+popularity:
+  star: 37221
+  watcher: 133
+  fork: 3846
+  release: 21
+  contributor: 71
+  pullRequest: 669
+  issue: 356
+language:
+  TypeScript: 4615884
+  JavaScript: 172617
+  CSS: 25160
+  Python: 21608
+  HTML: 8250
+  Dockerfile: 2248
+totalBytes: 4845767
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 2
+    mergedPR: 35
+    openPR: 6
+    closedIssue: 5
+    openIssue: 1
+    commit: 93
+  last60d:
+    since: 2026-09-29
+    release: 3
+    mergedPR: 104
+    openPR: 6
+    closedIssue: 12
+    openIssue: 7
+    commit: 176
+  last90d:
+    since: 2026-08-30
+    release: 3
+    mergedPR: 108
+    openPR: 8
+    closedIssue: 15
+    openIssue: 8
+    commit: 180
+  last180d:
+    since: 2026-06-01
+    release: 3
+    mergedPR: 140
+    openPR: 11
+    closedIssue: 40
+    openIssue: 10
+    commit: 215
+  last360d:
+    since: 2025-12-03
+    release: 20
+    mergedPR: 528
+    openPR: 13
+    closedIssue: 317
+    openIssue: 18
+    commit: 680
+  last720d:
+    since: 2024-12-08
+    release: 21
+    mergedPR: 570
+    openPR: 13
+    closedIssue: 338
+    openIssue: 18
+    commit: 927
+total:
+  release: 21
+  mergedPR: 570
+  openPR: 13
+  closedIssue: 338
+  openIssue: 18
+  commit: 927
+---
+path: /home/runner/.x-repo/github.com/DayuanJiang/next-ai-draw-io
+collectedAt: 2026-11-28T08:43:16Z
+loc:
+  TypeScript:
+    code: 72888
+    comments: 8445
+    blanks: 5127
+    files: 326
+  Json:
+    code: 26843
+    comments: 0
+    blanks: 0
+    files: 24
+  Tsx:
+    code: 25303
+    comments: 2117
+    blanks: 1305
+    files: 122
+  JavaScript:
+    code: 3940
+    comments: 447
+    blanks: 198
+    files: 24
+  Css:
+    code: 714
+    comments: 58
+    blanks: 45
+    files: 4
+  Python:
+    code: 522
+    comments: 11
+    blanks: 25
+    files: 1
+  Yaml:
+    code: 112
+    comments: 31
+    blanks: 13
+    files: 3
+  Html:
+    code: 110
+    comments: 0
+    blanks: 0
+    files: 2
+  Svg:
+    code: 76
+    comments: 8
+    blanks: 0
+    files: 37
+  Dockerfile:
+    code: 35
+    comments: 20
+    blanks: 22
+    files: 1
+  Markdown:
+    code: 0
+    comments: 8210
+    blanks: 2565
+    files: 94
+  Text:
+    code: 0
+    comments: 92
+    blanks: 15
+    files: 3
+total:
+  code: 131481
+  comments: 19484
+  blanks: 9331
+  files: 641
+---
+
+---
